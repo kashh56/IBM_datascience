@@ -1,4 +1,6 @@
-# 📊 IBM Data Science Project
+# 📊 IBM Data Science Project 
+## 📈 Peer-graded Assignment: Analyzing Historical Stock and Revenue Data & Building a Dashboard
+
 
 ## 📅 Submission Date: October 2, 2024
 
